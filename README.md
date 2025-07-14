@@ -76,6 +76,3 @@ A simple asynchronous task manager API built with FastAPI, SQLAlchemy, Celery, a
 - `DATABASE_URL` — Database connection string (default: SQLite)
 - `REDIS_URL` — Redis connection string (default: `redis://localhost:6379/0`)
 
-## License
-
-MIT

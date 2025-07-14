@@ -56,6 +56,9 @@ A simple asynchronous task manager API built with FastAPI, SQLAlchemy, Celery, a
     ```
 
 ### API Endpoints
+#### Admin
+
+- `/admin/` — Admin dashboard 
 
 #### Auth
 
